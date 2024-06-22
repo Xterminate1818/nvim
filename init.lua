@@ -1,0 +1,6 @@
+require("plugins")
+require("completion")
+require("options")
+require("keys")
+require("lsp")
+require("tscope")

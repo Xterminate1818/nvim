@@ -1,0 +1,8 @@
+# neovim
+plugin/
+profile.json
+
+# cli
+result/
+target/
+packages.json
